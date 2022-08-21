@@ -15,7 +15,7 @@
 ' 06: SPEED: WHEEL RHS REV                - [IN] same as above
 
 ' 07: TRIM ANGLE WHEEL LHS                - [IN] TRIM OFFSET (Centered around 90) in deg
-' 08: TRIM ANGLE WHEEL LHS                - [IN] TRIM OFFSET (Centered around 90) in deg
+' 08: TRIM ANGLE WHEEL RHS                - [IN] TRIM OFFSET (Centered around 90) in deg
 ' 
 ' 30: WDOG:                               - [OUT]Check Alive counter (READ)
 ' 31: DUMMY                               -  not used
