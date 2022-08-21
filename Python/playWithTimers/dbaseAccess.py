@@ -8,8 +8,8 @@ import datetime
 
 s = sched.scheduler(time.time, time.sleep)
 conn_params = {
-    "user": "chris",
-    "password": "1630",
+    "user": "replace with env var",
+    "password": "replace with env var",
     "host": "localhost",
     "database": "kRobot"
 }
